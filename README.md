@@ -7,6 +7,6 @@
 ### 2. Create a Gridsome project
 
 1. `gridsome create my-gridsome-bulma-site https://github.com/eamonnflynn/gridsome-starter-bulma` to install (or just clone this repo)</li>
-2. `cd my-gridsome-site` to open folder
+2. `cd my-gridsome-bulma-site` to open folder
 3. `gridsome develop` to start local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
